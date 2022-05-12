@@ -4,7 +4,7 @@ class add {
         System.out.println(addNum(1, 2));
     }
 
-    public static int addNum(int a, int b) {
-        return a + b;
+    public static int addNum(int x, int y) {
+        return x + y;
     }
 }
